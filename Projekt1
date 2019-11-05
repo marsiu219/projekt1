@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+
+
+<head>
+<ol>
+<li> <a href="https://www.google.pl"> Nie google </a> </li>
+<li> <a href="https://www.onet.pl"> Onet </a> </li>
+<li> <a href="https://www.agh.edu.pl.pl"> Agh </a> </li>
+</ol>
+<h1> Zdjęcie fali </h1>
+</head>
+
+<body>
+<p> Paragraf 1 </p>
+<p> Paragraf 2 </p>
+<p> Paragraf 3 </p>
+<img src="fala.jpg"/>
+</body>
+
+</html>
